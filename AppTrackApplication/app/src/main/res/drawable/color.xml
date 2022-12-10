@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--  바텀 네비게이션 바  -->
+    <!--  선택했을 때 색깔  -->
+    <item android:color = "#FF6060" android:state_selected="true"/>
+
+    <!--  선택하지 않았을 때 색깔  -->
+    <item android:color = "#999999" android:state_selected="false"/>
+
+</selector>

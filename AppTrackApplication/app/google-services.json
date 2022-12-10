@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745430065139",
+    "project_id": "apptrackappliction-bbd8c",
+    "storage_bucket": "apptrackappliction-bbd8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745430065139:android:0f720fcc5dc08c6a5a3c86",
+        "android_client_info": {
+          "package_name": "com.example.apptrackapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745430065139-p0v65mm3srln2ta69esgp7omv8d4luk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfjBbtIv0s1kL6pDwZT3UYPCnMUpMQBs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745430065139-p0v65mm3srln2ta69esgp7omv8d4luk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
